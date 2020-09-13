@@ -16,7 +16,7 @@ Install Anaconda from [here](https://www.anaconda.com/products/individual)
 * Anaconda
 * Pandas
 
-#### Libraries used: 
+#### Libraries used
 `pandas`
 
 `matplotlib.pyplot`
