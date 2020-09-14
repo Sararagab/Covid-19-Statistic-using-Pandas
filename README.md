@@ -1,5 +1,5 @@
 # Covid 19 statistics for Norway
-This code will show the statistics for Covid19 disease in Norway plotting new cases, confirmed, recovered and deaths,
+This code will show the statistics for Covid19 disease in Norway plotting new cases, confirmed, recovered and deaths.
 
 ### Getting started
 Install Anaconda from [here](https://www.anaconda.com/products/individual)
